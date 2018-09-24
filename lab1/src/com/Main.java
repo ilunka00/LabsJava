@@ -83,9 +83,9 @@ public class Main {
         System.out.println("double: " + D);
 
         //task10
-        /*for(int j = 0;  j < 3; j++ ){
+        for(int j = 0;  j < 3; j++ ){
                System.out.println(args[j]+" ");
-          }*/
+        }
 
         //task11
         AllTheColorsOfTheRainbow allTheColorsOfTheRainbow = new AllTheColorsOfTheRainbow();
