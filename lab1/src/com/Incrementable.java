@@ -1,7 +1,7 @@
 package com;
 
 public class Incrementable {
-    static void increment(){
+    static void increment() {
         StaticTest.i++;
     }
 }
