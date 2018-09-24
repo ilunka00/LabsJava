@@ -95,6 +95,10 @@ public class Main {
         //task12
         HelloDate helloDate = new HelloDate();
         helloDate.runHelloDate();
+
+        //task16
+        Overloading overloading = new Overloading();
+        overloading.runOverloading();
     }
 
     int storage(String s) {
